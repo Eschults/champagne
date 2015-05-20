@@ -9075,17 +9075,18 @@ body {
 
 /* line 44, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
 .img-welcome-brand {
-  max-width: 500px; }
+  max-width: 500px;
+  width: 90%; }
 
-/* line 47, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
+/* line 48, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
 .welcome-brand {
   margin-top: -55px; }
 
-/* line 50, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
+/* line 51, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
 .img-logo-small {
   max-width: 100px; }
 
-/* line 53, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
+/* line 54, /Users/edwardschults/code/Eschults/champagne/source/stylesheets/layout/_utilities.css.scss */
 .padding-sides-15 {
   padding-left: 15px;
   padding-right: 15px; }
