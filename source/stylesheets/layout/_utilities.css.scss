@@ -34,6 +34,7 @@
 .bg-green-vogue {
   background: $green-vogue;
   color: white;
+  opacity: .9;
 }
 
 .img-welcome-logo {
@@ -43,6 +44,13 @@
   max-width: 500px;
 }
 .welcome-brand {
-  margin-top: -110px;
+  margin-top: -55px;
+}
+.img-logo-small {
+  max-width: 100px;
+}
+.padding-sides-15 {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
