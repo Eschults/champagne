@@ -4,7 +4,7 @@
 $navbar-color: black;
 $navbar-hover-color: $yellow;
 $navbar-font-family: $header-font;
-$navbar-bg: white;
+$navbar-bg: #FCF4E1;
 
 /* -------------------------------------
  * Box model
@@ -91,7 +91,7 @@ $navbar-profile-border-width: 2px;
 
   .navbar-brand img, .navbar-brand svg {
     height: $navbar-height;
-    padding: 0px;
+    padding: 15px 0px;
   }
 
   .img-avatar{

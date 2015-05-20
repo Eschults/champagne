@@ -2,9 +2,9 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
-$base-font: "Open Sans", "Helvetica", "sans-serif";
-$header-font: "Montserrat", "sans-serif";
+@import url("http://fonts.googleapis.com/css?family=Lato:400,300,700|Montserrat:400,700");
+$base-font: "Lato", "Helvetica", "sans-serif";
+$header-font: "Lato", "sans-serif";
 
 // Local fonts (uncomment following lines)
 // @font-face {
@@ -26,10 +26,12 @@ $base-height: 1.4;
 // Scheme
 $red: #EE5F5B;
 $blue: #469AE0;
-$yellow: #FDB631;
+$yellow: #F4D785;
 $orange: #E67E22;
 $green: #32B796;
 $purple: #6452BD;
+$midnight-blue: #181E79;
+$green-vogue: #002A50;
 
 // Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
